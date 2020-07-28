@@ -1,2 +1,2 @@
 # Otel_Otomasyonu
- C# programlama dilinde kodlanmıstır.
+ C# programlama dili ile kodlanmıştır.
