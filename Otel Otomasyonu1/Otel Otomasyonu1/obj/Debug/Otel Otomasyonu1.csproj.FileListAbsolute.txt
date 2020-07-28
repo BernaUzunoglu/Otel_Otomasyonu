@@ -1,0 +1,71 @@
+C:\Users\PC\Documents\Visual Studio 2013\Projects\Otomasyon\Otel Otomasyonu1\Otel Otomasyonu1\bin\Debug\Otel Otomasyonu1.exe.config
+C:\Users\PC\Documents\Visual Studio 2013\Projects\Otomasyon\Otel Otomasyonu1\Otel Otomasyonu1\bin\Debug\Otel Otomasyonu1.exe
+C:\Users\PC\Documents\Visual Studio 2013\Projects\Otomasyon\Otel Otomasyonu1\Otel Otomasyonu1\bin\Debug\Otel Otomasyonu1.pdb
+C:\Users\PC\Documents\Visual Studio 2013\Projects\Otomasyon\Otel Otomasyonu1\Otel Otomasyonu1\obj\Debug\Otel_Otomasyonu1.kul_form.resources
+C:\Users\PC\Documents\Visual Studio 2013\Projects\Otomasyon\Otel Otomasyonu1\Otel Otomasyonu1\obj\Debug\Otel_Otomasyonu1.Properties.Resources.resources
+C:\Users\PC\Documents\Visual Studio 2013\Projects\Otomasyon\Otel Otomasyonu1\Otel Otomasyonu1\obj\Debug\Otel Otomasyonu1.csproj.GenerateResource.Cache
+C:\Users\PC\Documents\Visual Studio 2013\Projects\Otomasyon\Otel Otomasyonu1\Otel Otomasyonu1\obj\Debug\Otel Otomasyonu1.exe
+C:\Users\PC\Documents\Visual Studio 2013\Projects\Otomasyon\Otel Otomasyonu1\Otel Otomasyonu1\obj\Debug\Otel Otomasyonu1.pdb
+C:\Users\PC\Documents\Visual Studio 2013\Projects\Otomasyon\Otel Otomasyonu1\Otel Otomasyonu1\obj\Debug\Otel Otomasyonu1.csprojResolveAssemblyReference.cache
+C:\Users\PC\Documents\Visual Studio 2013\Projects\Otomasyon\Otel Otomasyonu1\Otel Otomasyonu1\obj\Debug\Otel_Otomasyonu1.Yoneticiarayuzu.resources
+C:\Users\PC\Documents\Visual Studio 2013\Projects\Otomasyon\Otel Otomasyonu1\Otel Otomasyonu1\obj\Debug\Otel_Otomasyonu1.MusteriArayuz.resources
+C:\Users\PC\Documents\Visual Studio 2013\Projects\Otomasyon\Otel Otomasyonu1\Otel Otomasyonu1\obj\Debug\Otel_Otomasyonu1.PersonelArayuzu.resources
+C:\Users\PC\Documents\Visual Studio 2013\Projects\Otomasyon\Otel Otomasyonu1\Otel Otomasyonu1\obj\Debug\Otel_Otomasyonu1.YoneticiIslemleri.resources
+C:\Users\PC\Documents\Visual Studio 2013\Projects\Otomasyon\Otel Otomasyonu1\Otel Otomasyonu1\obj\Debug\Otel_Otomasyonu1.PersonelIslemleri.resources
+C:\Users\PC\Documents\Visual Studio 2013\Projects\Otomasyon\Otel Otomasyonu1\Otel Otomasyonu1\obj\Debug\Otel_Otomasyonu1.MüsteriKayıt.resources
+C:\Users\PC\Documents\Visual Studio 2013\Projects\Otomasyon\Otel Otomasyonu1\Otel Otomasyonu1\obj\Debug\Otel_Otomasyonu1.YoneticiPersonelKayıt.resources
+C:\Users\PC\Desktop\proje\Otel Otomasyonu1\Otel Otomasyonu1\bin\Debug\Otel Otomasyonu1.exe.config
+C:\Users\PC\Desktop\proje\Otel Otomasyonu1\Otel Otomasyonu1\obj\Debug\Otel Otomasyonu1.exe
+C:\Users\PC\Desktop\proje\Otel Otomasyonu1\Otel Otomasyonu1\obj\Debug\Otel Otomasyonu1.pdb
+C:\Users\PC\Desktop\proje\Otel Otomasyonu1\Otel Otomasyonu1\bin\Debug\Otel Otomasyonu1.exe
+C:\Users\PC\Desktop\proje\Otel Otomasyonu1\Otel Otomasyonu1\bin\Debug\Otel Otomasyonu1.pdb
+C:\Users\PC\Desktop\proje\Otel Otomasyonu1\Otel Otomasyonu1\obj\Debug\Otel Otomasyonu1.csprojResolveAssemblyReference.cache
+C:\Users\PC\Desktop\proje\Otel Otomasyonu1\Otel Otomasyonu1\obj\Debug\Otel_Otomasyonu1.kul_form.resources
+C:\Users\PC\Desktop\proje\Otel Otomasyonu1\Otel Otomasyonu1\obj\Debug\Otel_Otomasyonu1.MusteriArayuz.resources
+C:\Users\PC\Desktop\proje\Otel Otomasyonu1\Otel Otomasyonu1\obj\Debug\Otel_Otomasyonu1.MüsteriKayıt.resources
+C:\Users\PC\Desktop\proje\Otel Otomasyonu1\Otel Otomasyonu1\obj\Debug\Otel_Otomasyonu1.PersonelArayuzu.resources
+C:\Users\PC\Desktop\proje\Otel Otomasyonu1\Otel Otomasyonu1\obj\Debug\Otel_Otomasyonu1.PersonelIslemleri.resources
+C:\Users\PC\Desktop\proje\Otel Otomasyonu1\Otel Otomasyonu1\obj\Debug\Otel_Otomasyonu1.Properties.Resources.resources
+C:\Users\PC\Desktop\proje\Otel Otomasyonu1\Otel Otomasyonu1\obj\Debug\Otel_Otomasyonu1.Yoneticiarayuzu.resources
+C:\Users\PC\Desktop\proje\Otel Otomasyonu1\Otel Otomasyonu1\obj\Debug\Otel_Otomasyonu1.YoneticiIslemleri.resources
+C:\Users\PC\Desktop\proje\Otel Otomasyonu1\Otel Otomasyonu1\obj\Debug\Otel_Otomasyonu1.YoneticiPersonelKayıt.resources
+C:\Users\PC\Desktop\proje\Otel Otomasyonu1\Otel Otomasyonu1\obj\Debug\Otel Otomasyonu1.csproj.GenerateResource.Cache
+C:\Users\PC\Desktop\Otel Otomasyonu1\Otel Otomasyonu1\bin\Debug\Otel Otomasyonu1.exe.config
+C:\Users\PC\Desktop\Otel Otomasyonu1\Otel Otomasyonu1\obj\Debug\Otel Otomasyonu1.exe
+C:\Users\PC\Desktop\Otel Otomasyonu1\Otel Otomasyonu1\obj\Debug\Otel Otomasyonu1.pdb
+C:\Users\PC\Desktop\Otel Otomasyonu1\Otel Otomasyonu1\obj\Debug\Otel Otomasyonu1.csprojResolveAssemblyReference.cache
+C:\Users\PC\Desktop\Otel Otomasyonu1\Otel Otomasyonu1\obj\Debug\Otel_Otomasyonu1.kul_form.resources
+C:\Users\PC\Desktop\Otel Otomasyonu1\Otel Otomasyonu1\obj\Debug\Otel_Otomasyonu1.MusteriArayuz.resources
+C:\Users\PC\Desktop\Otel Otomasyonu1\Otel Otomasyonu1\obj\Debug\Otel_Otomasyonu1.MüsteriKayıt.resources
+C:\Users\PC\Desktop\Otel Otomasyonu1\Otel Otomasyonu1\obj\Debug\Otel_Otomasyonu1.PersonelArayuzu.resources
+C:\Users\PC\Desktop\Otel Otomasyonu1\Otel Otomasyonu1\obj\Debug\Otel_Otomasyonu1.PersonelIslemleri.resources
+C:\Users\PC\Desktop\Otel Otomasyonu1\Otel Otomasyonu1\obj\Debug\Otel_Otomasyonu1.Properties.Resources.resources
+C:\Users\PC\Desktop\Otel Otomasyonu1\Otel Otomasyonu1\obj\Debug\Otel_Otomasyonu1.Yoneticiarayuzu.resources
+C:\Users\PC\Desktop\Otel Otomasyonu1\Otel Otomasyonu1\obj\Debug\Otel_Otomasyonu1.YoneticiIslemleri.resources
+C:\Users\PC\Desktop\Otel Otomasyonu1\Otel Otomasyonu1\obj\Debug\Otel Otomasyonu1.csproj.GenerateResource.Cache
+C:\Users\PC\Desktop\Otel Otomasyonu1\Otel Otomasyonu1\bin\Debug\Otel Otomasyonu1.exe
+C:\Users\PC\Desktop\Otel Otomasyonu1\Otel Otomasyonu1\bin\Debug\Otel Otomasyonu1.pdb
+C:\Users\PC\Desktop\Otel Otomasyonu1\Otel Otomasyonu1\obj\Debug\Otel_Otomasyonu1.Sifre_kayıt.resources
+C:\Users\PC\Desktop\Otel Otomasyonu1\Otel Otomasyonu1\obj\Debug\Otel_Otomasyonu1.Yonetici_Personel_Kayıt.resources
+C:\Users\PC\Desktop\Otel Otomasyonu1\Otel Otomasyonu1\obj\Debug\Otel_Otomasyonu1.Odeme_Al.resources
+C:\Users\PC\Desktop\Otel Otomasyonu1\Otel Otomasyonu1\obj\Debug\Otel_Otomasyonu1.Lısteler.resources
+D:\Otel Otomasyonu1\Otel Otomasyonu1\bin\Debug\Otel Otomasyonu1.exe.config
+D:\Otel Otomasyonu1\Otel Otomasyonu1\obj\Debug\Otel Otomasyonu1.exe
+D:\Otel Otomasyonu1\Otel Otomasyonu1\obj\Debug\Otel Otomasyonu1.pdb
+D:\Otel Otomasyonu1\Otel Otomasyonu1\bin\Debug\Otel Otomasyonu1.exe
+D:\Otel Otomasyonu1\Otel Otomasyonu1\bin\Debug\Otel Otomasyonu1.pdb
+D:\Otel Otomasyonu1\Otel Otomasyonu1\obj\Debug\Otel_Otomasyonu1.kul_form.resources
+D:\Otel Otomasyonu1\Otel Otomasyonu1\obj\Debug\Otel_Otomasyonu1.Lısteler.resources
+D:\Otel Otomasyonu1\Otel Otomasyonu1\obj\Debug\Otel_Otomasyonu1.MusteriArayuz.resources
+D:\Otel Otomasyonu1\Otel Otomasyonu1\obj\Debug\Otel_Otomasyonu1.MüsteriKayıt.resources
+D:\Otel Otomasyonu1\Otel Otomasyonu1\obj\Debug\Otel_Otomasyonu1.PersonelArayuzu.resources
+D:\Otel Otomasyonu1\Otel Otomasyonu1\obj\Debug\Otel_Otomasyonu1.PersonelIslemleri.resources
+D:\Otel Otomasyonu1\Otel Otomasyonu1\obj\Debug\Otel_Otomasyonu1.Properties.Resources.resources
+D:\Otel Otomasyonu1\Otel Otomasyonu1\obj\Debug\Otel_Otomasyonu1.Sifre_kayıt.resources
+D:\Otel Otomasyonu1\Otel Otomasyonu1\obj\Debug\Otel_Otomasyonu1.Yoneticiarayuzu.resources
+D:\Otel Otomasyonu1\Otel Otomasyonu1\obj\Debug\Otel_Otomasyonu1.YoneticiIslemleri.resources
+D:\Otel Otomasyonu1\Otel Otomasyonu1\obj\Debug\Otel_Otomasyonu1.Yonetici_Personel_Kayıt.resources
+D:\Otel Otomasyonu1\Otel Otomasyonu1\obj\Debug\Otel_Otomasyonu1.Odeme_Al.resources
+D:\Otel Otomasyonu1\Otel Otomasyonu1\obj\Debug\Otel Otomasyonu1.csproj.GenerateResource.Cache
+D:\Otel Otomasyonu1\Otel Otomasyonu1\obj\Debug\Otel Otomasyonu1.csprojAssemblyReference.cache
+D:\Otel Otomasyonu1\Otel Otomasyonu1\obj\Debug\Otel Otomasyonu1.csproj.CoreCompileInputs.cache
